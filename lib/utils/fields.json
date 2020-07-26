@@ -1,0 +1,33 @@
+{
+  "login": [
+    "name",
+    "email",
+    "username",
+    "password",
+    "website"
+  ],
+  "bank account": [
+    "account holder name",
+    "account number",
+    "bank name",
+    "ifsc code",
+    "bank address",
+    "nominee"
+  ],
+  "card": [
+    "card holder name",
+    "card number",
+    "card type",
+    "cvv",
+    "pin",
+    "expiry date"
+  ],
+  "license": [
+    "licence type",
+    "licence number",
+    "name",
+    "expiry",
+    "issued on",
+    "issued by"
+  ]
+}
