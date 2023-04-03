@@ -1,6 +1,6 @@
 # passmi
 
-A new Flutter project.
+Password manager App using flutter (Fully Offline with no security risks). 
 
 ## Getting Started
 
